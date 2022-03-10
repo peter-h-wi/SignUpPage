@@ -6,4 +6,4 @@ Project "SignUpPage" for in-person Academy Meeting.
 
 |Name|Screenshots
 |--|--|
-|[SignUpPage](SignUpPage)|<img src="Screenshots/frame_1.png" width="150"/><img src="p07-runny/Screenshots/record_1.gif" width="135"/>|
+|[SignUpPage](SignUpPage)|<img src="Screenshots/frame_1.png" width="150"/><img src="Screenshots/record_1.gif" width="135"/>|
